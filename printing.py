@@ -30,3 +30,13 @@ print """
 Hello world!
 We shall print multiple lines!
 """
+
+tab = "\tPrint a tab"
+list = """
+A list:
+\t* foo
+\t* bar
+"""
+
+print tab
+print list
