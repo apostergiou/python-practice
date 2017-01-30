@@ -18,9 +18,15 @@ print sum2
 
 formatter = "%r"
 print formatter % (1)
-print formatter % (true)
+print formatter % (True)
 print formatter % (formatter)
 print formatter % ('one')
 print formatter % (
     "Hello world!"
 )
+
+print "foo\nbar"
+print """
+Hello world!
+We shall print multiple lines!
+"""
