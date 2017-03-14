@@ -1,5 +1,5 @@
 # python practice
-Part of my daily plan for studying python.
+Part of my plan for studying python.
 
 ## Python Keywords
 
