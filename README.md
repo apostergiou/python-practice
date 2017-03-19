@@ -37,5 +37,6 @@ Part of my plan for studying python.
 | `with`     | With an expression as a variable do.               | `with X as Y: pass`                     |
 | `yield`    | Pause here and return to caller.                   | `def X(): yield Y; X().next()`          |
 
-See also:
-- [euler problems in python(solutions are private)](https://github.com/apostergiou/euler)
+## Resources
+
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
